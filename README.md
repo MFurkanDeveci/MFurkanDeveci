@@ -1,4 +1,0 @@
-- 👋 Hi, I’m FurkanDeveci
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning "Machine Learning"
-- 📫 How to reach me mfdeveci.027@gmail.com
